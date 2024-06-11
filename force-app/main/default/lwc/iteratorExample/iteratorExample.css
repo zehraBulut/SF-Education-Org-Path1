@@ -1,0 +1,14 @@
+.myDiv{
+background-color: rgb(170, 170, 227);
+font-size:large ;
+padding:10px;
+margin: 10px;
+border-color: crimson;
+border: deeppink;
+}
+
+.myScore{
+
+color:chartreuse;
+
+};
